@@ -9,4 +9,4 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ex
 - **Backend Development:** Node.js, Express.js, PHP
 
 ## 📫 Let's Connect
-- Instagram: [https://www.instagram.com/dickyanth/](Link to LinkedIn)
+- Instagram: [https://www.instagram.com/dickyanth/]
