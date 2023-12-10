@@ -10,3 +10,10 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ex
 
 ## 📫 Let's Connect
 - Instagram: [https://www.instagram.com/dickyanth/]
+
+## 🏙️ Github Statics:
+<p align="left">
+<a href="https://github.com/aerossky">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dickyanthony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
