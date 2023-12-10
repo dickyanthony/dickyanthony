@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ex
 
 ## 🏙️ Github Statics:
 <p align="left">
-<a href="https://github.com/aerossky">
+<a href="https://github.com/dickyanthony">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dickyanthony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
